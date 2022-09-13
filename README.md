@@ -1,5 +1,6 @@
 # [Safuu Frontend](https://app.safuu.com/)
 This is the front-end repo for Safuu. 
+https://app.safuu.com/
 
 ##  🔧 Setting up Local Development
 
